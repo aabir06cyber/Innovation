@@ -1,0 +1,15 @@
+Before you continue, please read the following instructions carefully. You will have 35 seconds for reading it, after which the console will be cleared.
+If you finish reading before 35 seconds, you may press "Enter" to continue.
+---------------------------------------------------------------------------
+1. For every valid word, you get +1 point.
+2. If the first letter of your word does not match with the last letter of the computer's word (in the same line), you will be awarded -1 point.
+3. If your input is not found within the list of words, you will not be awarded any point.
+4. You will not get any point for repeated words. For example, if you enter the word "good" 5 times, you will still get +1 point only, and not +5.
+5. Be aware that only rule number 4 applies in case of the computer's output.
+6. To stop the game, enter: stop game
+After the scores are calculated, you will be shown any errors that you have made/the computer has made, with the frequency of each error.
+Try not to get a negative score! All the best!
+
+The following data will be stored in the Game Data File:
+1. Player's name 2. No. of words used 3. Scores 4. Result 5. Total play time
+Press Enter key to continue. Console will be cleared.
